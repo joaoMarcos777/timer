@@ -7,6 +7,13 @@
 
 > An application where you can register cycles with the name of the task and how long you gonna work on it and has a history list of all registered cycles
 
+## Technologies
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Zod](https://img.shields.io/badge/-Zod-05122A?style=flat&logo=zod)&nbsp;
+![StyledComponents](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styled-components)&nbsp;
+
 ## Install
 
 ```sh
@@ -21,15 +28,7 @@ npm run dev
 
 ## Author
 
-👤 **João Marcos**
+**João Marcos**
 
 - Github: [@joaoMarcos777](https://github.com/joaoMarcos777)
 - LinkedIn: [@joaomarcos777](https://linkedin.com/in/joaomarcos777)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
